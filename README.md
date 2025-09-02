@@ -19,7 +19,7 @@ Players answer multiple-choice questions to win increasing amounts of prize mone
 ## ▶️ How to Play
 1. Run the program in your terminal:
    ```bash
-  python millionaire.py
+     python millionaire.py
 📸 Example Run
 Which planet is known as the Red Planet?
 a. Venus
